@@ -1,0 +1,3 @@
+Solicitações:
+- Criar conta do Google para integração do Google Analytics
+- Criar redes sociais Instagram, Facebook e Linkedin
